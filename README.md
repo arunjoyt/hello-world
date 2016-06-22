@@ -1,4 +1,4 @@
 # hello-world
-my new hello world repository
+my hello world repository
 Author: Arun Joy Thekkiniyath
 
